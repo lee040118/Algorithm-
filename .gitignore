@@ -27,6 +27,7 @@
 *.lib
 
 # Executables
+input.txt
 *.exe
 *.out
 *.app
