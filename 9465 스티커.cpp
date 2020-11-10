@@ -33,7 +33,15 @@ int main()
 			rep(j,n) cin>>a[i][j];
 		memset(dp,-1,sizeof(dp));
 		cout<<topdown(0,0)<<endl;
-
+		
+		// rep(i,n)
+		// {
+		// 	rep(j,3)
+		// 	{
+		// 		cout<<dp[i][j]<<" ";
+		// 	}
+		// 	cout<<endl;
+		// }
 	}
 
 	return 0;
